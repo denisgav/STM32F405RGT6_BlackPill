@@ -1,4 +1,4 @@
-24414383900026216
+24419588757671333
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -363,6 +363,27 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+BlackPill
+SMT_0-2P-T001_TDK
+
+ACM2012-900-2P-T001 
+0
+4
+4
+BlackPill
+SMT_0-2P-T001_TDK-L
+
+ACM2012-900-2P-T001 
+0
+4
+4
+BlackPill
+SMT_0-2P-T001_TDK-M
+
+ACM2012-900-2P-T001 
+0
+4
+4
 BlackPill
 SW_PUSH_6mm_H5mm
 tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm

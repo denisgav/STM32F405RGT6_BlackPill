@@ -5,6 +5,303 @@
 	(uuid "07664052-976c-44e7-9f77-02531d11571b")
 	(paper "A4")
 	(lib_symbols
+		(symbol "BlackPillLibrary:ACM2012-900-2P-T001"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 20.32 10.16 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "ACM2012-900-2P-T001"
+				(at 20.32 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "SMT_0-2P-T001_TDK"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "ACM2012-900-2P-T001"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "ACM2012-900-2P-T001"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SMT_0-2P-T001_TDK SMT_0-2P-T001_TDK-M SMT_0-2P-T001_TDK-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "ACM2012-900-2P-T001_0_1"
+				(polyline
+					(pts
+						(xy 12.7 -7.62) (xy 15.24 -7.62)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 0) (xy 15.24 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -3.175) (xy 30.48 -3.175)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 30.48 -4.445) (xy 15.24 -4.445)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 -7.62) (xy 30.48 -7.62)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 33.02 0) (xy 30.48 0)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 15.24 0)
+					(mid 17.78 -2.529)
+					(end 20.32 0)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 20.32 -7.62)
+					(mid 17.78 -5.091)
+					(end 15.24 -7.62)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 20.32 0)
+					(mid 22.86 -2.529)
+					(end 25.4 0)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 25.4 -7.62)
+					(mid 22.86 -5.091)
+					(end 20.32 -7.62)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 25.4 0)
+					(mid 27.94 -2.529)
+					(end 30.48 0)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 30.48 -7.62)
+					(mid 27.94 -5.091)
+					(end 25.4 -7.62)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 0)
+					(length 7.62)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 -7.62 0)
+					(length 7.62)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 -7.62 180)
+					(length 7.62)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 40.64 0 180)
+					(length 7.62)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
 			(pin_names
 				(offset 1.016)
@@ -822,354 +1119,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Device:EMI_Filter_LL_1423"
-			(pin_names hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "FL"
-				(at 0 4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Device_EMI_Filter_LL_1423"
-				(at 0 -4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 1.016 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Bourns*SRF0905*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "EMI_Filter_LL_1423_0_1"
-				(circle
-					(center -3.048 -1.27)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -3.048 1.524)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start -2.54 2.032)
-					(mid -2.032 1.5262)
-					(end -1.524 2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.524 -2.032)
-					(mid -2.032 -1.5262)
-					(end -2.54 -2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.524 2.032)
-					(mid -1.016 1.5262)
-					(end -0.508 2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.508 -2.032)
-					(mid -1.016 -1.5262)
-					(end -1.524 -2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.508 2.032)
-					(mid 0 1.5262)
-					(end 0.508 2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.032) (xy -2.54 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 0.508) (xy 2.54 0.508)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 2.032) (xy -2.54 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.032) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -0.508) (xy -2.54 -0.508)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 2.54 2.032)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.508 -2.032)
-					(mid 0 -1.5262)
-					(end -0.508 -2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0.508 2.032)
-					(mid 1.016 1.5262)
-					(end 1.524 2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.524 -2.032)
-					(mid 1.016 -1.5262)
-					(end 0.508 -2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 1.524 2.032)
-					(mid 2.032 1.5262)
-					(end 2.54 2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 -2.032)
-					(mid 2.032 -1.5262)
-					(end 1.524 -2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "EMI_Filter_LL_1423_1_1"
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1999,16 +1948,6 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 58.42) (xy 64.77 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0217cf6a-421b-49b1-ac88-834a6ccb9299")
-	)
-	(wire
-		(pts
 			(xy 194.31 44.45) (xy 218.44 44.45)
 		)
 		(stroke
@@ -2036,6 +1975,26 @@
 			(type default)
 		)
 		(uuid "12429978-5548-4637-84ca-5ebbd86699ad")
+	)
+	(wire
+		(pts
+			(xy 64.77 52.07) (xy 67.31 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1320e7db-14b8-47ec-9976-8990de1ef9b8")
+	)
+	(wire
+		(pts
+			(xy 102.87 44.45) (xy 116.84 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2629b01c-75e5-4f42-a54e-420cab8e735b")
 	)
 	(wire
 		(pts
@@ -2079,16 +2038,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 58.42) (xy 83.82 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c06635a-ccdb-40b6-89f4-bf1a3c08091f")
-	)
-	(wire
-		(pts
 			(xy 215.9 36.83) (xy 218.44 36.83)
 		)
 		(stroke
@@ -2106,16 +2055,6 @@
 			(type default)
 		)
 		(uuid "5fdd3dc5-b1de-448b-ab53-2b7fe26a0b18")
-	)
-	(wire
-		(pts
-			(xy 102.87 53.34) (xy 83.82 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e20f7a1-b9e3-488b-b362-a87ebd862fe1")
 	)
 	(wire
 		(pts
@@ -2156,6 +2095,16 @@
 			(type default)
 		)
 		(uuid "93c562f8-dac8-4333-b8bb-2ea38b7accde")
+	)
+	(wire
+		(pts
+			(xy 102.87 52.07) (xy 116.84 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95e9093b-2960-4bf5-a485-0ba6621f373e")
 	)
 	(wire
 		(pts
@@ -2299,6 +2248,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 44.45) (xy 67.31 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa612e68-540c-41a9-8690-4b8314ca96f4")
+	)
+	(wire
+		(pts
 			(xy 233.68 74.93) (xy 233.68 80.01)
 		)
 		(stroke
@@ -2316,16 +2275,6 @@
 			(type default)
 		)
 		(uuid "fc50f40c-121c-4ab4-95fe-3b7e3d820be0")
-	)
-	(wire
-		(pts
-			(xy 73.66 53.34) (xy 64.77 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe07a477-1d95-446e-8199-1b2934447d0a")
 	)
 	(rectangle
 		(start 49.53 24.13)
@@ -2362,7 +2311,7 @@
 	)
 	(text "Common-Mode Choke Impedance: 90R"
 		(exclude_from_sim no)
-		(at 55.118 64.516 0)
+		(at 67.818 59.182 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2372,7 +2321,7 @@
 		(uuid "e4291962-34ed-4688-9bd0-f85450bc8e03")
 	)
 	(label "USB_CMC_D-"
-		(at 102.87 58.42 180)
+		(at 116.84 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2427,7 +2376,7 @@
 		(uuid "ae55326a-cc59-4f15-b86d-5fc68504fd8d")
 	)
 	(label "USB_CMC_D+"
-		(at 102.87 53.34 180)
+		(at 116.84 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2483,7 +2432,7 @@
 	)
 	(global_label "USB_D-"
 		(shape input)
-		(at 64.77 58.42 180)
+		(at 64.77 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2493,7 +2442,7 @@
 		)
 		(uuid "b4e4c52a-c2dd-48fa-bc05-ae6dacb1c959")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.1648 58.42 0)
+			(at 54.1648 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2505,7 +2454,7 @@
 	)
 	(global_label "USB_D+"
 		(shape input)
-		(at 64.77 53.34 180)
+		(at 64.77 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2515,7 +2464,7 @@
 		)
 		(uuid "d3b7b169-e019-4cf7-bdbf-72f90a979865")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.1648 53.34 0)
+			(at 54.1648 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2658,51 +2607,53 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:EMI_Filter_LL_1423")
-		(at 78.74 55.88 0)
-		(mirror y)
+		(lib_id "BlackPillLibrary:ACM2012-900-2P-T001")
+		(at 107.95 52.07 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "4aa5ea39-003c-49dc-b612-44247d52fa17")
-		(property "Reference" "L2"
-			(at 78.74 60.96 0)
+		(fields_autoplaced yes)
+		(uuid "674e2530-d410-4d71-bbb8-e16ad44355ac")
+		(property "Reference" "U201"
+			(at 85.09 39.37 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Value" "CMF3216F-900-2P-T"
-			(at 78.74 50.8 0)
+		(property "Value" "ACM2012-900-2P-T001"
+			(at 85.09 41.91 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 78.74 62.23 0)
+		(property "Footprint" "BlackPill:SMT_0-2P-T001_TDK"
+			(at 107.95 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(italic yes)
 				)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 78.74 54.864 90)
+		(property "Datasheet" "ACM2012-900-2P-T001"
+			(at 107.95 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(italic yes)
 				)
 				(hide yes)
 			)
 		)
 		(property "Description" ""
-			(at 78.74 55.88 0)
+			(at 107.95 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2710,22 +2661,22 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "d98e140e-a058-4035-8b14-09a9f5d4a56d")
+		(pin "3"
+			(uuid "35327da5-f258-4920-b5e7-a67c8621a89f")
 		)
 		(pin "2"
-			(uuid "6fc672fa-3f5e-46be-9554-b130e38acb4a")
-		)
-		(pin "3"
-			(uuid "140e6d86-065c-466c-bfde-f6924077ff6d")
+			(uuid "1183fda0-9139-483c-8d9f-f4c0c344ad62")
 		)
 		(pin "4"
-			(uuid "b9bea726-e28d-4767-922f-e3fbe57d7dfa")
+			(uuid "33c1bd39-3fd1-4f22-a708-1ff74aac0c5f")
+		)
+		(pin "1"
+			(uuid "da6b4efc-253b-4c50-9729-2bbe29a3405f")
 		)
 		(instances
-			(project "STM32F405RGT6_BlackPill"
+			(project ""
 				(path "/cae5b0ba-cc42-4347-bdfb-a704c1b808ff/eb317edf-4a76-4641-bee6-7756ac9721d3"
-					(reference "L2")
+					(reference "U201")
 					(unit 1)
 				)
 			)
@@ -2740,7 +2691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8aa6aaf9-a838-4da4-a896-eb28ad35e765")
-		(property "Reference" "U2"
+		(property "Reference" "U200"
 			(at 146.558 51.054 0)
 			(effects
 				(font
@@ -2783,7 +2734,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Parrt #" ""
+		(property "Manufacturer" "STMicroelectronics"
 			(at 144.78 55.88 0)
 			(effects
 				(font
@@ -2792,7 +2743,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC link" "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_TECH-PUBLIC-USBLC6-2SC6_C2827654.html"
+		(property "DigiKey Part Number" "497-5235-6-ND"
 			(at 144.78 55.88 0)
 			(effects
 				(font
@@ -2801,16 +2752,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TECH PUBLIC"
-			(at 144.78 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "USBLC6-2SC6"
+		(property "Manufacturer Product Number" "USBLC6-2SC6"
 			(at 144.78 55.88 0)
 			(effects
 				(font
@@ -2840,7 +2782,7 @@
 		(instances
 			(project "STM32F405RGT6_BlackPill"
 				(path "/cae5b0ba-cc42-4347-bdfb-a704c1b808ff/eb317edf-4a76-4641-bee6-7756ac9721d3"
-					(reference "U2")
+					(reference "U200")
 					(unit 1)
 				)
 			)
@@ -2922,7 +2864,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a20386fa-72c3-49a6-98cb-2a2d2a68c097")
-		(property "Reference" "J2"
+		(property "Reference" "J200"
 			(at 240.03 31.496 0)
 			(effects
 				(font
@@ -2959,6 +2901,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 233.68 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey Part Number" ""
 			(at 233.68 52.07 0)
 			(effects
 				(font
@@ -3021,7 +2972,7 @@
 		(instances
 			(project "STM32F405RGT6_BlackPill"
 				(path "/cae5b0ba-cc42-4347-bdfb-a704c1b808ff/eb317edf-4a76-4641-bee6-7756ac9721d3"
-					(reference "J2")
+					(reference "J200")
 					(unit 1)
 				)
 			)
@@ -3171,7 +3122,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8da89f9-6dde-4050-91b3-bf3e59d63f4f")
-		(property "Reference" "R8"
+		(property "Reference" "R200"
 			(at 187.96 48.2599 0)
 			(effects
 				(font
@@ -3216,6 +3167,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" ""
+			(at 185.42 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "253e551d-6289-441d-943d-3d375a9b36b3")
 		)
@@ -3225,7 +3185,7 @@
 		(instances
 			(project "STM32F405RGT6_BlackPill"
 				(path "/cae5b0ba-cc42-4347-bdfb-a704c1b808ff/eb317edf-4a76-4641-bee6-7756ac9721d3"
-					(reference "R8")
+					(reference "R200")
 					(unit 1)
 				)
 			)
@@ -3240,7 +3200,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c1da5843-a50a-491c-88c4-2a151534b230")
-		(property "Reference" "C16"
+		(property "Reference" "C200"
 			(at 130.81 39.37 90)
 			(effects
 				(font
@@ -3285,7 +3245,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samwha-Capacitor-CS1005X7R104K500NR_C513772.html"
+		(property "Manufacturer" ""
 			(at 133.35 43.18 0)
 			(effects
 				(font
@@ -3294,16 +3254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samwha Capacitor"
-			(at 133.35 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CS1005X7R104K500NR"
+		(property "DigiKey Part Number" ""
 			(at 133.35 43.18 0)
 			(effects
 				(font
@@ -3321,7 +3272,7 @@
 		(instances
 			(project "STM32F405RGT6_BlackPill"
 				(path "/cae5b0ba-cc42-4347-bdfb-a704c1b808ff/eb317edf-4a76-4641-bee6-7756ac9721d3"
-					(reference "C16")
+					(reference "C200")
 					(unit 1)
 				)
 			)
@@ -3403,7 +3354,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8daa6fb-f0fc-418c-a793-f872ea6afdf0")
-		(property "Reference" "R9"
+		(property "Reference" "R201"
 			(at 196.85 48.2599 0)
 			(effects
 				(font
@@ -3448,6 +3399,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" ""
+			(at 194.31 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e4bbcf1c-8c7f-46e6-8862-b4434839e6a2")
 		)
@@ -3457,7 +3417,7 @@
 		(instances
 			(project "STM32F405RGT6_BlackPill"
 				(path "/cae5b0ba-cc42-4347-bdfb-a704c1b808ff/eb317edf-4a76-4641-bee6-7756ac9721d3"
-					(reference "R9")
+					(reference "R201")
 					(unit 1)
 				)
 			)

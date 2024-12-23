@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "SW"
-			(at 2.032 4.826 0)
+			(at 0 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
