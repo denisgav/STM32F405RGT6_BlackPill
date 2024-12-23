@@ -2741,7 +2741,7 @@
 		(dnp no)
 		(uuid "8aa6aaf9-a838-4da4-a896-eb28ad35e765")
 		(property "Reference" "U2"
-			(at 149.86 46.99 0)
+			(at 146.558 51.054 0)
 			(effects
 				(font
 					(size 1.27 1.27)
