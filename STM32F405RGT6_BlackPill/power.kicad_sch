@@ -2009,7 +2009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 33.02 43.18 0)
 			(effects
 				(font
@@ -2018,7 +2018,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "1276-1946-6-ND"
+			(at 33.02 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "CL10B105KP8NNNC"
 			(at 33.02 43.18 0)
 			(effects
 				(font
@@ -2096,7 +2105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Panasonic Electronic Components"
 			(at 187.96 46.99 0)
 			(effects
 				(font
@@ -2105,7 +2114,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "P1.00KLDKR-ND"
+			(at 187.96 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "ERJ-2RKF1001X"
 			(at 187.96 46.99 0)
 			(effects
 				(font
@@ -2380,7 +2398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Panasonic Electronic Components"
 			(at 149.86 43.18 0)
 			(effects
 				(font
@@ -2389,7 +2407,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "P100KLDKR-ND"
+			(at 149.86 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "ERJ-2RKF1003X"
 			(at 149.86 43.18 0)
 			(effects
 				(font
@@ -2715,7 +2742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 73.66 43.18 0)
 			(effects
 				(font
@@ -2724,7 +2751,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "1276-6687-6-ND"
+			(at 73.66 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "CL21A226KQCLRNC"
 			(at 73.66 43.18 0)
 			(effects
 				(font
@@ -2868,7 +2904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 132.08 43.18 0)
 			(effects
 				(font
@@ -2877,7 +2913,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "1276-6687-6-ND"
+			(at 132.08 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "CL21A226KQCLRNC"
 			(at 132.08 43.18 0)
 			(effects
 				(font
@@ -2956,7 +3001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 58.42 43.18 0)
 			(effects
 				(font
@@ -2965,7 +3010,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "1276-1946-6-ND"
+			(at 58.42 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "CL10B105KP8NNNC"
 			(at 58.42 43.18 0)
 			(effects
 				(font
@@ -3172,7 +3226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Würth Elektronik"
 			(at 175.26 36.83 0)
 			(effects
 				(font
@@ -3181,7 +3235,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "732-4971-6-ND"
+			(at 175.26 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "150060GS75000"
 			(at 175.26 36.83 0)
 			(effects
 				(font
@@ -3223,7 +3286,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "10nH"
 			(at 45.72 33.02 90)
 			(effects
 				(font
@@ -3258,7 +3321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Johanson Technology Inc."
 			(at 45.72 36.83 0)
 			(effects
 				(font
@@ -3267,7 +3330,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "712-LRC0402CJ10NGV001TDKR-ND"
+			(at 45.72 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "LRC0402CJ10NGV001T"
 			(at 45.72 36.83 0)
 			(effects
 				(font
@@ -3345,7 +3417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Panasonic Electronic Components"
 			(at 149.86 57.15 0)
 			(effects
 				(font
@@ -3354,7 +3426,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "P22.0KLDKR-ND"
+			(at 149.86 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "ERJ-2RKF2202X"
 			(at 149.86 57.15 0)
 			(effects
 				(font

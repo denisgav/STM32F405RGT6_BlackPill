@@ -2661,6 +2661,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey Part Number" "445-15969-6-ND"
+			(at 107.95 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK Corporation"
+			(at 107.95 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "ACM2012-900-2P-T001"
+			(at 107.95 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "35327da5-f258-4920-b5e7-a67c8621a89f")
 		)
@@ -2909,7 +2936,25 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "664-12402012E212ADKR-ND"
+			(at 233.68 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Amphenol ICC (Commercial Products)"
+			(at 233.68 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "12402012E212A"
 			(at 233.68 52.07 0)
 			(effects
 				(font
@@ -3167,7 +3212,25 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "P5.1KDCDKR-ND"
+			(at 185.42 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic Electronic Components"
+			(at 185.42 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "ERA-2AEB512X"
 			(at 185.42 49.53 0)
 			(effects
 				(font
@@ -3245,7 +3308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 133.35 43.18 0)
 			(effects
 				(font
@@ -3254,7 +3317,16 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "1276-1002-6-ND"
+			(at 133.35 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "CL05B104KP5NNNC"
 			(at 133.35 43.18 0)
 			(effects
 				(font
@@ -3399,7 +3471,25 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part Number" ""
+		(property "DigiKey Part Number" "P5.1KDCDKR-ND"
+			(at 194.31 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic Electronic Components"
+			(at 194.31 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "ERA-2AEB512X"
 			(at 194.31 49.53 0)
 			(effects
 				(font
