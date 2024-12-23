@@ -386,6 +386,18 @@
     [
       "cae5b0ba-cc42-4347-bdfb-a704c1b808ff",
       "Root"
+    ],
+    [
+      "dd7f6eda-dc83-4b84-a9a2-d4778c0007f8",
+      "MCU"
+    ],
+    [
+      "eb317edf-4a76-4641-bee6-7756ac9721d3",
+      "USB"
+    ],
+    [
+      "2ee95013-77be-4b2e-9d54-3c8eff576e64",
+      "power"
     ]
   ],
   "text_variables": {}
