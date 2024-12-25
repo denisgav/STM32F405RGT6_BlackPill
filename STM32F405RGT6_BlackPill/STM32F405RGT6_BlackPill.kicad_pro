@@ -494,8 +494,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "../manufacture_pcbway/gerber/",
+      "pos_files": "../manufacture_pcbway/cpl/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -505,7 +505,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "..\\manufacture_pcbway\\bom\\STM32F405RGT6_BlackPill.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -584,7 +584,7 @@
           "group_by": false,
           "label": "DigiKey Part Number",
           "name": "DigiKey Part Number",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",
