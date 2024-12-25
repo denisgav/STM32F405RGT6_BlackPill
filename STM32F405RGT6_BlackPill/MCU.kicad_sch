@@ -12204,7 +12204,6 @@
 		)
 	)
 	(symbol
-		(lib_name "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(lib_id "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(at 29.21 119.38 270)
 		(unit 1)
@@ -13647,7 +13646,6 @@
 		)
 	)
 	(symbol
-		(lib_name "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(lib_id "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(at 96.52 35.56 270)
 		(unit 1)
@@ -15289,7 +15287,6 @@
 		)
 	)
 	(symbol
-		(lib_name "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(lib_id "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(at 27.94 33.02 270)
 		(unit 1)

@@ -1,0 +1,31 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Manufacturer,Manufacturer Product Number
+"C100,C102,C103,C104,C105,C106,C200",100n,~,Capacitor_SMD:C_0402_1005Metric,7,,Samsung Electro-Mechanics,CL05B104KP5NNNC
+C101,4u7,~,Capacitor_SMD:C_0603_1608Metric,1,,Samsung Electro-Mechanics,CL10A475KP8NNNC
+C107,10n,~,Capacitor_SMD:C_0402_1005Metric,1,,Samsung Electro-Mechanics,CL05B103KB5NNNC
+"C108,C109,C300,C301",1u,~,Capacitor_SMD:C_0603_1608Metric,4,,Samsung Electro-Mechanics,CL10B105KP8NNNC
+"C110,C111,C112,C113",15p,~,Capacitor_SMD:C_0402_1005Metric,4,,Murata Electronics,GJM1555C1H150FB01D
+"C114,C115",2u2,~,Capacitor_SMD:C_0805_2012Metric,2,,TDK Corporation,C2012X7R1C225K125AB
+"C302,C303",22u,~,Capacitor_SMD:C_0805_2012Metric,2,,Samsung Electro-Mechanics,CL21A226KQCLRNC
+C304,DNP,~,Capacitor_SMD:C_0402_1005Metric,1,DNP,,
+"D100,D101,D102","PESD3V3L1BA,115",~,Diode_SMD:D_SOD-323,3,,Nexperia USA Inc.,"PESD3V3L1BA,115"
+"D103,D300",LED,~,LED_SMD:LED_0603_1608Metric,2,,Würth Elektronik,150060GS75000
+J100,Conn_01x04,~,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1,DNP,,
+J101,Conn_02x15_Odd_Even,~,Connector_PinHeader_2.54mm:PinHeader_2x15_P2.54mm_Vertical,1,DNP,,
+J102,Conn_02x10_Odd_Even,~,Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical,1,DNP,,
+J103,Conn_01x02,~,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,1,DNP,,
+J200,USB_C_Receptacle_USB2.0_16P,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A,1,,Amphenol ICC (Commercial Products),12402012E212A
+"L100,L300",10nH,~,Inductor_SMD:L_0402_1005Metric,2,,Johanson Technology Inc.,LRC0402CJ10NGV001T
+L301,15u,~,BlackPill:MWSA0603S,1,,"Shenzhen Sunlord Electronics Co., Ltd.",MWSA0603S-150MT
+"R100,R101,R102,R107",10k,~,Resistor_SMD:R_0402_1005Metric,4,,Samsung Electro-Mechanics,RC1005F103CS
+"R103,R104,R105,R106",47R,~,Resistor_SMD:R_0402_1005Metric,4,,Panasonic Electronic Components,ERJ-2GEJ470X
+"R108,R200,R201",5k1,~,Resistor_SMD:R_0402_1005Metric,3,,Panasonic Electronic Components,ERA-2AEB512X
+R300,100k,~,Resistor_SMD:R_0402_1005Metric,1,,Panasonic Electronic Components,ERJ-2RKF1003X
+R301,22k,~,Resistor_SMD:R_0402_1005Metric,1,,Panasonic Electronic Components,ERJ-2RKF2202X
+R302,1k,~,Resistor_SMD:R_0402_1005Metric,1,,Panasonic Electronic Components,ERJ-2RKF1001X
+"SW100,SW101,SW102",~,,Button_Switch_THT:SW_PUSH_6mm,3,DNP,,
+U100,STM32F405RGTx,https://www.st.com/resource/en/datasheet/stm32f405rg.pdf,Package_QFP:LQFP-64_10x10mm_P0.5mm,1,,STMicroelectronics,STM32F405RGT6
+U200,USBLC6-2SC6,https://www.st.com/resource/en/datasheet/usblc6-2.pdf,Package_TO_SOT_SMD:SOT-23-6,1,,STMicroelectronics,USBLC6-2SC6
+U201,ACM2012-900-2P-T001,ACM2012-900-2P-T001,BlackPill:SMT_0-2P-T001_TDK,1,,TDK Corporation,ACM2012-900-2P-T001
+U300,TLV62569DBV,http://www.ti.com/lit/ds/symlink/tlv62569.pdf,Package_TO_SOT_SMD:SOT-23-5,1,,Texas Instruments,TLV62569DBVR
+Y1,32768Hz,~,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,1,,Abracon LLC,ASEK-32.768KHZ-L-R-T
+Y100,25Mhz,~,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,1,,Abracon LLC,ASE-25.000MHZ-L-C-T
