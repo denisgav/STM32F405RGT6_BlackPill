@@ -11059,7 +11059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TDK Corporation"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 87.63 146.05 0)
 			(effects
 				(font
@@ -11068,7 +11068,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "C2012X7R1C225K125AB"
+		(property "Manufacturer Product Number" "CL21B225KAFNNNE"
 			(at 87.63 146.05 0)
 			(effects
 				(font
@@ -11156,7 +11156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 52.07 40.64 0)
 			(effects
 				(font
@@ -11165,7 +11165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "RC1005F103CS"
+		(property "Manufacturer Product Number" "0402WGF1002TCE"
 			(at 52.07 40.64 0)
 			(effects
 				(font
@@ -11545,7 +11545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
+		(property "Manufacturer" "Hubei KENTO Elec"
 			(at 62.23 128.27 0)
 			(effects
 				(font
@@ -11554,7 +11554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "150060GS75000"
+		(property "Manufacturer Product Number" "KT-0603R"
 			(at 62.23 128.27 0)
 			(effects
 				(font
@@ -11806,7 +11806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 36.83 41.91 0)
 			(effects
 				(font
@@ -11815,7 +11815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "RC1005F103CS"
+		(property "Manufacturer Product Number" "0402WGF1002TCE"
 			(at 36.83 41.91 0)
 			(effects
 				(font
@@ -11980,7 +11980,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3347ae5c-33d8-44fd-8276-e7f249bfc1cc")
-		(property "Reference" "Y1"
+		(property "Reference" "Y101"
 			(at 244.602 27.94 0)
 			(effects
 				(font
@@ -12032,7 +12032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Abracon LLC"
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 242.57 33.02 0)
 			(effects
 				(font
@@ -12041,7 +12041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "ASEK-32.768KHZ-L-R-T"
+		(property "Manufacturer Product Number" "OK2EL89CJI-111YLC-32.768K"
 			(at 242.57 33.02 0)
 			(effects
 				(font
@@ -12065,7 +12065,7 @@
 		(instances
 			(project "STM32F405RGT6_BlackPill"
 				(path "/cae5b0ba-cc42-4347-bdfb-a704c1b808ff/dd7f6eda-dc83-4b84-a9a2-d4778c0007f8"
-					(reference "Y1")
+					(reference "Y101")
 					(unit 1)
 				)
 			)
@@ -12204,6 +12204,7 @@
 		)
 	)
 	(symbol
+		(lib_name "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(lib_id "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(at 29.21 119.38 270)
 		(unit 1)
@@ -13646,6 +13647,7 @@
 		)
 	)
 	(symbol
+		(lib_name "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(lib_id "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(at 96.52 35.56 270)
 		(unit 1)
@@ -14145,7 +14147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Abracon LLC"
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 196.85 30.48 0)
 			(effects
 				(font
@@ -14154,7 +14156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "ASE-25.000MHZ-L-C-T"
+		(property "Manufacturer Product Number" "OT322525MJBA4SL"
 			(at 196.85 30.48 0)
 			(effects
 				(font
@@ -14247,7 +14249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TDK Corporation"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 95.25 146.05 0)
 			(effects
 				(font
@@ -14256,7 +14258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "C2012X7R1C225K125AB"
+		(property "Manufacturer Product Number" "CL21B225KAFNNNE"
 			(at 95.25 146.05 0)
 			(effects
 				(font
@@ -14344,7 +14346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic Electronic Components"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 252.73 26.67 0)
 			(effects
 				(font
@@ -14353,7 +14355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "ERJ-2GEJ470X"
+		(property "Manufacturer Product Number" "0402WGF470JTCE"
 			(at 252.73 26.67 0)
 			(effects
 				(font
@@ -14802,7 +14804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic Electronic Components"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 59.69 78.74 0)
 			(effects
 				(font
@@ -14811,7 +14813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "ERJ-2GEJ470X"
+		(property "Manufacturer Product Number" "0402WGF470JTCE"
 			(at 59.69 78.74 0)
 			(effects
 				(font
@@ -15253,7 +15255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic Electronic Components"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 208.28 24.13 0)
 			(effects
 				(font
@@ -15262,7 +15264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "ERJ-2GEJ470X"
+		(property "Manufacturer Product Number" "0402WGF470JTCE"
 			(at 208.28 24.13 0)
 			(effects
 				(font
@@ -15287,6 +15289,7 @@
 		)
 	)
 	(symbol
+		(lib_name "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(lib_id "BlackPillLibrary:SW_PUSH_6mm_H5mm")
 		(at 27.94 33.02 270)
 		(unit 1)
@@ -16348,7 +16351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Johanson Technology Inc."
+		(property "Manufacturer" "Murata Electronics"
 			(at 170.18 27.94 0)
 			(effects
 				(font
@@ -16366,7 +16369,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "LRC0402CJ10NGV001T"
+		(property "Manufacturer Product Number" "LQG15HS10NJ02D"
 			(at 170.18 27.94 0)
 			(effects
 				(font
@@ -16454,7 +16457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 38.1 128.27 0)
 			(effects
 				(font
@@ -16463,7 +16466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "RC1005F103CS"
+		(property "Manufacturer Product Number" "0402WGF1002TCE"
 			(at 38.1 128.27 0)
 			(effects
 				(font
@@ -16746,7 +16749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic Electronic Components"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 59.69 76.2 0)
 			(effects
 				(font
@@ -16755,7 +16758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "ERJ-2GEJ470X"
+		(property "Manufacturer Product Number" "0402WGF470JTCE"
 			(at 59.69 76.2 0)
 			(effects
 				(font
@@ -16908,7 +16911,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 82.55 29.21 0)
 			(effects
 				(font
@@ -16917,7 +16920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "RC1005F103CS"
+		(property "Manufacturer Product Number" "0402WGF1002TCE"
 			(at 82.55 29.21 0)
 			(effects
 				(font
@@ -17232,7 +17235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic Electronic Components"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 62.23 118.11 0)
 			(effects
 				(font
@@ -17241,7 +17244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "ERA-2AEB512X"
+		(property "Manufacturer Product Number" "0402WGF5101TCE"
 			(at 62.23 118.11 0)
 			(effects
 				(font

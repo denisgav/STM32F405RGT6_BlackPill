@@ -2171,7 +2171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic Electronic Components"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 187.96 46.99 0)
 			(effects
 				(font
@@ -2189,7 +2189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "ERJ-2RKF1001X"
+		(property "Manufacturer Product Number" "0402WGF1001TCE"
 			(at 187.96 46.99 0)
 			(effects
 				(font
@@ -2464,7 +2464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic Electronic Components"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 149.86 43.18 0)
 			(effects
 				(font
@@ -2482,7 +2482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "ERJ-2RKF1003X"
+		(property "Manufacturer Product Number" "0402WGF1003TCE"
 			(at 149.86 43.18 0)
 			(effects
 				(font
@@ -2826,7 +2826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "CL21A226KQCLRNC"
+		(property "Manufacturer Product Number" "CL21A226MQQNNNE"
 			(at 73.66 43.18 0)
 			(effects
 				(font
@@ -2988,7 +2988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "CL21A226KQCLRNC"
+		(property "Manufacturer Product Number" "CL21A226MQQNNNE"
 			(at 132.08 43.18 0)
 			(effects
 				(font
@@ -3227,7 +3227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
+		(property "Manufacturer" "Hubei KENTO Elec"
 			(at 175.26 36.83 0)
 			(effects
 				(font
@@ -3245,7 +3245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "150060GS75000"
+		(property "Manufacturer Product Number" "KT-0603R"
 			(at 175.26 36.83 0)
 			(effects
 				(font
@@ -3322,7 +3322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Johanson Technology Inc."
+		(property "Manufacturer" "Murata Electronics"
 			(at 45.72 36.83 0)
 			(effects
 				(font
@@ -3340,7 +3340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "LRC0402CJ10NGV001T"
+		(property "Manufacturer Product Number" "LQG15HS10NJ02D"
 			(at 45.72 36.83 0)
 			(effects
 				(font
@@ -3418,7 +3418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic Electronic Components"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 149.86 57.15 0)
 			(effects
 				(font
@@ -3436,7 +3436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "ERJ-2RKF2202X"
+		(property "Manufacturer Product Number" "0402WGF2202TCE"
 			(at 149.86 57.15 0)
 			(effects
 				(font
@@ -3512,7 +3512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Shenzhen Sunlord Electronics Co., Ltd."
+		(property "Manufacturer" "cjiang (Changjiang Microelectronics Tech)"
 			(at 120.65 36.83 0)
 			(effects
 				(font
@@ -3530,7 +3530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Product Number" "MWSA0603S-150MT"
+		(property "Manufacturer Product Number" "FXL0630-150-M"
 			(at 120.65 36.83 0)
 			(effects
 				(font

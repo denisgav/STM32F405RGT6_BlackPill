@@ -58,9 +58,9 @@
           "width": 0.0
         },
         {
-          "gap": 0.23,
+          "gap": 0.2032,
           "via_gap": 0.254,
-          "width": 0.31
+          "width": 0.261112
         }
       ],
       "drc_exclusions": [],
@@ -124,7 +124,7 @@
         "min_clearance": 0.2,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.25,
-        "min_hole_clearance": 0.15,
+        "min_hole_clearance": 0.3,
         "min_hole_to_hole": 0.5,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
@@ -184,6 +184,7 @@
       ],
       "track_widths": [
         0.0,
+        0.261,
         0.3,
         0.5
       ],
@@ -494,8 +495,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../manufacture_pcbway/gerber/",
-      "pos_files": "../manufacture_pcbway/cpl/",
+      "plot": "../manufacture_jlcpcb/gerber/",
+      "pos_files": "../manufacture_jlcpcb/cpl/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -505,7 +506,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "..\\manufacture_pcbway\\bom\\STM32F405RGT6_BlackPill.csv",
+    "bom_export_filename": "..\\manufacture_jlcpcb\\bom\\STM32F405RGT6_BlackPill.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
